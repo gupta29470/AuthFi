@@ -14,6 +14,6 @@
 <br/><br/>
 
 <p align="center">
-  <img src="AuthFi.gif" alt="animated" />
+  <img src="AuthFi.gif" alt="animated" width="500" height="600" />
 </p>
 

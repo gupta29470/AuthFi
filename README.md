@@ -13,5 +13,5 @@
 
 <br/><br/>
 
-![Alt Text](https://github.com/gupta29470/Game-Showcase/blob/master/Game-Showcase.gif)
+![Alt Text](https://github.com/gupta29470/AuthFi/blob/master/AuthFi.gif)
 

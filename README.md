@@ -1,6 +1,6 @@
 # AuthFi
 
-> About: A flutter animation demo app which shows avatar in and out and smooth transition beetween login page and home page.
+> A flutter animated demo app which shows avatar in and out and smooth transition beetween login page and home page.
 
 <br/><br/>
 
@@ -9,7 +9,7 @@
 2. Home Page
 
 
-> A glimpse of **Game Showcase** 
+> A glimpse of **AuthFi** 
 
 <br/><br/>
 

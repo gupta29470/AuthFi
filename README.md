@@ -13,5 +13,7 @@
 
 <br/><br/>
 
-![Alt Text](https://github.com/gupta29470/AuthFi/blob/master/AuthFi.gif)
+<p align="center">
+  <img src="AuthFi.gif" alt="animated" />
+</p>
 
